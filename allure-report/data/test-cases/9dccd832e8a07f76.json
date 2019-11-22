@@ -1,0 +1,395 @@
+{
+  "uid" : "9dccd832e8a07f76",
+  "name" : "Enter City as Madrid in the Search box and check whether it is Enabled on Hotel search Main page",
+  "fullName" : "Automation test for short trip scenario to Madrid for 2 Adults.Enter City as Madrid in the Search box and check whether it is Enabled on Hotel search Main page",
+  "historyId" : "dce37fb874667c045fdc852636bbdab9",
+  "time" : {
+    "start" : 1574447840865,
+    "stop" : 1574447842013,
+    "duration" : 1148
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1574447840866,
+        "stop" : 1574447840929,
+        "duration" : 63
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "66338c5fb65846df",
+        "name" : "Request",
+        "source" : "66338c5fb65846df.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "1a046513830b1143",
+        "name" : "Response",
+        "source" : "1a046513830b1143.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1574447840936,
+        "stop" : 1574447840999,
+        "duration" : 63
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c731ed4c71124523",
+        "name" : "Request",
+        "source" : "c731ed4c71124523.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "dab288c83625de28",
+        "name" : "Response",
+        "source" : "dab288c83625de28.json",
+        "type" : "application/json",
+        "size" : 49
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5190959426004014-1/displayed",
+      "time" : {
+        "start" : 1574447841007,
+        "stop" : 1574447841077,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c7198c1aaff26620",
+        "name" : "Response",
+        "source" : "c7198c1aaff26620.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1574447841078,
+        "stop" : 1574447841150,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a6683ade401b4a20",
+        "name" : "Request",
+        "source" : "a6683ade401b4a20.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "4bd80093c25804",
+        "name" : "Response",
+        "source" : "4bd80093c25804.json",
+        "type" : "application/json",
+        "size" : 49
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5190959426004014-1/displayed",
+      "time" : {
+        "start" : 1574447841157,
+        "stop" : 1574447841214,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "26b072f9dede432c",
+        "name" : "Response",
+        "source" : "26b072f9dede432c.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5190959426004014-1/displayed",
+      "time" : {
+        "start" : 1574447841214,
+        "stop" : 1574447841284,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "27f0023c6c7562be",
+        "name" : "Response",
+        "source" : "27f0023c6c7562be.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1574447841285,
+        "stop" : 1574447841331,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "39011312141502a8",
+        "name" : "Request",
+        "source" : "39011312141502a8.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "ca3c6773a801bda0",
+        "name" : "Response",
+        "source" : "ca3c6773a801bda0.json",
+        "type" : "application/json",
+        "size" : 49
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5190959426004014-1/enabled",
+      "time" : {
+        "start" : 1574447841337,
+        "stop" : 1574447841407,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a8ff4a87ce125057",
+        "name" : "Response",
+        "source" : "a8ff4a87ce125057.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5190959426004014-1/enabled",
+      "time" : {
+        "start" : 1574447841407,
+        "stop" : 1574447841447,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "be03c450e06442d2",
+        "name" : "Response",
+        "source" : "be03c450e06442d2.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1574447841448,
+        "stop" : 1574447841488,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eabd19f9d9dbbeec",
+        "name" : "Request",
+        "source" : "eabd19f9d9dbbeec.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "61e4af31f3942e32",
+        "name" : "Response",
+        "source" : "61e4af31f3942e32.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1574447841493,
+        "stop" : 1574447841551,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f11537ad1b7290ed",
+        "name" : "Request",
+        "source" : "f11537ad1b7290ed.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "bd41c90bd276e26d",
+        "name" : "Response",
+        "source" : "bd41c90bd276e26d.json",
+        "type" : "application/json",
+        "size" : 49
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5190959426004014-1/clear",
+      "time" : {
+        "start" : 1574447841558,
+        "stop" : 1574447841685,
+        "duration" : 127
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5190959426004014-1/value",
+      "time" : {
+        "start" : 1574447841688,
+        "stop" : 1574447842011,
+        "duration" : 323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3cb4aaed7214ef5",
+        "name" : "Request",
+        "source" : "b3cb4aaed7214ef5.json",
+        "type" : "application/json",
+        "size" : 73
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 13,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 18
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testClass",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enter City as Madrid in the Search box and check whether it is Enabled on Hotel search Main page"
+  }, {
+    "name" : "package",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4fb7710dc0b5fcb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574447054746,
+        "stop" : 1574447056119,
+        "duration" : 1373
+      }
+    }, {
+      "uid" : "b963051f33bcf679",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574445780189,
+        "stop" : 1574445781548,
+        "duration" : 1359
+      }
+    }, {
+      "uid" : "83ffe799729b78a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574445518637,
+        "stop" : 1574445519847,
+        "duration" : 1210
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dccd832e8a07f76.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

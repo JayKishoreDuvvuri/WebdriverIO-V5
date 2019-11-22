@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@class='month-button month-button-next icon-arrow-right-bold']"
+}

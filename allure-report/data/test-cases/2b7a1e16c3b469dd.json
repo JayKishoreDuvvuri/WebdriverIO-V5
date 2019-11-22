@@ -1,0 +1,162 @@
+{
+  "uid" : "2b7a1e16c3b469dd",
+  "name" : "Check the title of the page",
+  "fullName" : "Automation test for short trip scenario to Madrid for 2 Adults.Check the title of the page",
+  "historyId" : "c00d01fa4154af6898462c1f4ab208c3",
+  "time" : {
+    "start" : 1574445370701,
+    "stop" : 1574445409137,
+    "duration" : 38436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/url",
+      "time" : {
+        "start" : 1574445370730,
+        "stop" : 1574445375536,
+        "duration" : 4806
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "65be6d89259da1b6",
+        "name" : "Response",
+        "source" : "65be6d89259da1b6.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5904904504647606-1/displayed",
+      "time" : {
+        "start" : 1574445408849,
+        "stop" : 1574445408872,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "80af3e163a32e1a4",
+        "name" : "Response",
+        "source" : "80af3e163a32e1a4.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1574445408872,
+        "stop" : 1574445409019,
+        "duration" : 147
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f9ff5ea22bcc8a90",
+        "name" : "Response",
+        "source" : "f9ff5ea22bcc8a90.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5904904504647606-1/displayed",
+      "time" : {
+        "start" : 1574445409020,
+        "stop" : 1574445409041,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e3e0f90d6ec5981",
+        "name" : "Response",
+        "source" : "e3e0f90d6ec5981.json",
+        "type" : "application/json",
+        "size" : 62
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "e906c64153297a39",
+      "name" : "Response",
+      "source" : "e906c64153297a39.json",
+      "type" : "application/json",
+      "size" : 39
+    }, {
+      "uid" : "cab6a9400ec8cb63",
+      "name" : "Response",
+      "source" : "cab6a9400ec8cb63.json",
+      "type" : "application/json",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testClass",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check the title of the page"
+  }, {
+    "name" : "package",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b7a1e16c3b469dd.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

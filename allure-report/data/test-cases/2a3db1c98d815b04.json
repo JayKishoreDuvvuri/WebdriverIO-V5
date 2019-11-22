@@ -1,0 +1,162 @@
+{
+  "uid" : "2a3db1c98d815b04",
+  "name" : "Check the title of the page",
+  "fullName" : "Automation test for short trip scenario to Madrid for 2 Adults.Check the title of the page",
+  "historyId" : "c00d01fa4154af6898462c1f4ab208c3",
+  "time" : {
+    "start" : 1574452012352,
+    "stop" : 1574452054146,
+    "duration" : 41794
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/url",
+      "time" : {
+        "start" : 1574452012417,
+        "stop" : 1574452017026,
+        "duration" : 4609
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "664e71ee7799437",
+        "name" : "Response",
+        "source" : "664e71ee7799437.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1574452017476,
+        "stop" : 1574452051235,
+        "duration" : 33759
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bc01afb9aedf6e2f",
+        "name" : "Request",
+        "source" : "bc01afb9aedf6e2f.json",
+        "type" : "application/json",
+        "size" : 69
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1574452052057,
+        "stop" : 1574452052600,
+        "duration" : 543
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d482eb3783937577",
+        "name" : "Response",
+        "source" : "d482eb3783937577.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/0.9157958599351039-1/displayed",
+      "time" : {
+        "start" : 1574452052606,
+        "stop" : 1574452054046,
+        "duration" : 1440
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f4c83ae401c332a1",
+        "name" : "Response",
+        "source" : "f4c83ae401c332a1.json",
+        "type" : "application/json",
+        "size" : 62
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "1abb1b8641db3287",
+      "name" : "Response",
+      "source" : "1abb1b8641db3287.json",
+      "type" : "application/json",
+      "size" : 298
+    }, {
+      "uid" : "e36780ef3baafa86",
+      "name" : "Response",
+      "source" : "e36780ef3baafa86.json",
+      "type" : "application/json",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testClass",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check the title of the page"
+  }, {
+    "name" : "package",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a3db1c98d815b04.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

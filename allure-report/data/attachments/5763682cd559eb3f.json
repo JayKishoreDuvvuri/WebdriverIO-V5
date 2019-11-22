@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.selectWrapper.show-for-xlarge > ul > li:nth-child(2)"
+}

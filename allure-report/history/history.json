@@ -1,0 +1,329 @@
+{
+  "c00d01fa4154af6898462c1f4ab208c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1eb08bad41dce4a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453766686,
+        "stop" : 1574453793079,
+        "duration" : 26393
+      }
+    } ]
+  },
+  "dd05572cd4504cf5593448ac2cd41639" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae2845f982d2eb26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574447702383,
+        "stop" : 1574447704712,
+        "duration" : 2329
+      }
+    } ]
+  },
+  "874e4e67e59a1f07f16b31c2fdcb9321" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17c64881d1444bcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453828828,
+        "stop" : 1574453830986,
+        "duration" : 2158
+      }
+    } ]
+  },
+  "3cbc6fc3722a3a8696bfe367da825ef4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ebec6c1e3ad2ca3",
+      "status" : "broken",
+      "statusDetails" : "element (\"//a[@class='expand bold cta expanded button' and contains(@href,'https://hotels.ab-in-den-urlaub.de/de/EUR/hotel/The%20Westin%20Palace%2C%20Madrid/mh/6573889/overview/arr/2019-12-05/dep/2019-12-06/adults/2/children/-1/-1/-1/rooms/1?pstn=1&rdr=price&')]\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1574453882484,
+        "stop" : 1574453892598,
+        "duration" : 10114
+      }
+    } ]
+  },
+  "8ccd62a2aed1a71faf4c7fdfa0a1c0ac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53c96094e860bfce",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://hotels.ab-in-den-urlaub.de/de/EUR/hotels/Madrid/mr/2706480/arr/2019-12-06/dep/2019-12-07/adults/2/children/-1/-1/-1/rooms/1' to include 'https://hotels.ab-in-den-urlaub.de/de/EUR/search/search?'",
+      "time" : {
+        "start" : 1574453847451,
+        "stop" : 1574453854167,
+        "duration" : 6716
+      }
+    } ]
+  },
+  "dce37fb874667c045fdc852636bbdab9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9aaa7519db52238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453844631,
+        "stop" : 1574453846058,
+        "duration" : 1427
+      }
+    } ]
+  },
+  "e393a6b0403611ae762d26ef4e18865f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df99aa1ce0c33ad3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453846059,
+        "stop" : 1574453847450,
+        "duration" : 1391
+      }
+    } ]
+  },
+  "c5667f0acfad94467890ecd40330d834" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88aff672d11003c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453830986,
+        "stop" : 1574453838010,
+        "duration" : 7024
+      }
+    } ]
+  },
+  "b12f49b97e4cb8801479386018647bf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2714d722170e901",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453793080,
+        "stop" : 1574453796781,
+        "duration" : 3701
+      }
+    } ]
+  },
+  "453f52dfea4c826a69ad86cb4db4686d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94dc1bf905b99191",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453796782,
+        "stop" : 1574453802531,
+        "duration" : 5749
+      }
+    } ]
+  },
+  "e3c7752b96375984741004c750150127" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dfaf6b7d025a4360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453865903,
+        "stop" : 1574453867700,
+        "duration" : 1797
+      }
+    } ]
+  },
+  "b029257396c0e6b32be79f694e4ef59" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54698249776d4354",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453869531,
+        "stop" : 1574453872383,
+        "duration" : 2852
+      }
+    } ]
+  },
+  "8ab32a65187bc8585b3dd3fe617ee74e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b861543be418a494",
+      "status" : "broken",
+      "statusDetails" : "element (\"//a[@class='expand bold cta expanded button' and contains(@href,'https://hotels.ab-in-den-urlaub.de/de/EUR/hotel/The%20Westin%20Palace%2C%20Madrid/mh/6573889/overview/arr/2019-12-05/dep/2019-12-06/adults/2/children/-1/-1/-1/rooms/1?pstn=1&rdr=price&')]\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1574453872384,
+        "stop" : 1574453882484,
+        "duration" : 10100
+      }
+    } ]
+  },
+  "a25da676403a028858731eb108395579" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfabe11668f4ce22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453838011,
+        "stop" : 1574453844630,
+        "duration" : 6619
+      }
+    } ]
+  },
+  "ffef4234ad2ad31979339fee9a65cd2c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "129e8601a896248b",
+      "status" : "broken",
+      "statusDetails" : "element (\"div > div:nth-child(2) > div.hc-box__body > ul > li:nth-child(1) > a\") still not existing after 10000ms",
+      "time" : {
+        "start" : 1574453854168,
+        "stop" : 1574453865901,
+        "duration" : 11733
+      }
+    } ]
+  },
+  "ef04fe12f9b084f4717e0c268b8c218b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba02fecaf8c0176f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453802532,
+        "stop" : 1574453828824,
+        "duration" : 26292
+      }
+    } ]
+  },
+  "20ecdfd71375d301139aa0a6539ea809" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c970eae5b49c36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574453867701,
+        "stop" : 1574453869531,
+        "duration" : 1830
+      }
+    } ]
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#hotel > div.form > div.form-footer > div.form-submit-button > div > span"
+}

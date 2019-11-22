@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div > div:nth-child(2) > div.hc-box__body > ul > li:nth-child(1) > a"
+}

@@ -1,0 +1,226 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Select the menu item HotelCity option",
+    "uid" : "ae2845f982d2eb26",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574447702383,
+      "stop" : 1574447704712,
+      "duration" : 2329
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Check the title of the page",
+    "uid" : "1eb08bad41dce4a0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453766686,
+      "stop" : 1574453793079,
+      "duration" : 26393
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Verify whether the cookie Button is enabled and click on it on home page",
+    "uid" : "a2714d722170e901",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453793080,
+      "stop" : 1574453796781,
+      "duration" : 3701
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Enter City as Madrid in the Search box and check whether it is Enabled",
+    "uid" : "94dc1bf905b99191",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453796782,
+      "stop" : 1574453802531,
+      "duration" : 5749
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Select the Departure and Return date for the Journey",
+    "uid" : "ba02fecaf8c0176f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453802532,
+      "stop" : 1574453828824,
+      "duration" : 26292
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Verify submit button's text and it's state is enabled",
+    "uid" : "17c64881d1444bcd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453828828,
+      "stop" : 1574453830986,
+      "duration" : 2158
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on submit button and verify the url",
+    "uid" : "88aff672d11003c7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453830986,
+      "stop" : 1574453838010,
+      "duration" : 7024
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on Re-directing link to go back again to hotels page",
+    "uid" : "bfabe11668f4ce22",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453838011,
+      "stop" : 1574453844630,
+      "duration" : 6619
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Enter City as Madrid in the Search box and check whether it is Enabled on Hotel search Main page",
+    "uid" : "c9aaa7519db52238",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453844631,
+      "stop" : 1574453846058,
+      "duration" : 1427
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Verify submit button's text and it's state is enabled on Hotel search Main page",
+    "uid" : "df99aa1ce0c33ad3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453846059,
+      "stop" : 1574453847450,
+      "duration" : 1391
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on submit button and verify the url on Hotel search Main Page",
+    "uid" : "53c96094e860bfce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1574453847451,
+      "stop" : 1574453854167,
+      "duration" : 6716
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Select city as Madrid",
+    "uid" : "129e8601a896248b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1574453854168,
+      "stop" : 1574453865901,
+      "duration" : 11733
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on five star rating (sterne) icon",
+    "uid" : "dfaf6b7d025a4360",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453865903,
+      "stop" : 1574453867700,
+      "duration" : 1797
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on best review rating (Bewertung) icon",
+    "uid" : "4c970eae5b49c36",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453867701,
+      "stop" : 1574453869531,
+      "duration" : 1830
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on price tab to see the price in descending order",
+    "uid" : "54698249776d4354",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574453869531,
+      "stop" : 1574453872383,
+      "duration" : 2852
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Verify 'Zum Angebote' button is enabled to select the hotel on the 'Hotelauswahl page'",
+    "uid" : "b861543be418a494",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1574453872384,
+      "stop" : 1574453882484,
+      "duration" : 10100
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  }, {
+    "name" : "Click on the selected hotel and user is navigated to 'Hotel Details page'",
+    "uid" : "3ebec6c1e3ad2ca3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1574453882484,
+      "stop" : 1574453892598,
+      "duration" : 10114
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-78.0.3904.108" ]
+  } ]
+}

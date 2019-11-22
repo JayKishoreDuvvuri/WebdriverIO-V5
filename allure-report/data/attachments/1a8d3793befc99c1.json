@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@class='hc-icon-smiley-5 icon']"
+}

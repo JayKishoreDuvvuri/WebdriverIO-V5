@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "59713fc56406d0eff4163832e0553960",
+    "name" : "Automation test for short trip scenario to Madrid for 2 Adults",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 17
+    }
+  } ]
+}

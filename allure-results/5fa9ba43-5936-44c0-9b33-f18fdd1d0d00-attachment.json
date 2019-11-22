@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.datepicker-layer.start-input > div.datepicker-wrapper > div > div"
+}

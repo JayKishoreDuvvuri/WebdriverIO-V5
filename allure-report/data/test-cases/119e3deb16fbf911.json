@@ -1,0 +1,232 @@
+{
+  "uid" : "119e3deb16fbf911",
+  "name" : "Click on submit button and verify the url on Hotel search Main Page",
+  "fullName" : "Automation test for short trip scenario to Madrid for 2 Adults.Click on submit button and verify the url on Hotel search Main Page",
+  "historyId" : "8ccd62a2aed1a71faf4c7fdfa0a1c0ac",
+  "time" : {
+    "start" : 1574447842653,
+    "stop" : 1574447846801,
+    "duration" : 4148
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1574447842654,
+        "stop" : 1574447842716,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d2b1d96d6fd5b878",
+        "name" : "Request",
+        "source" : "d2b1d96d6fd5b878.json",
+        "type" : "application/json",
+        "size" : 69
+      }, {
+        "uid" : "e375e0bc2ed92a3c",
+        "name" : "Response",
+        "source" : "e375e0bc2ed92a3c.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1574447842723,
+        "stop" : 1574447842775,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a279d990763f7d1c",
+        "name" : "Request",
+        "source" : "a279d990763f7d1c.json",
+        "type" : "application/json",
+        "size" : 69
+      }, {
+        "uid" : "6247fd430f136808",
+        "name" : "Response",
+        "source" : "6247fd430f136808.json",
+        "type" : "application/json",
+        "size" : 49
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5190959426004014-2/enabled",
+      "time" : {
+        "start" : 1574447842782,
+        "stop" : 1574447842818,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e97ed6708b05d262",
+        "name" : "Response",
+        "source" : "e97ed6708b05d262.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/execute",
+      "time" : {
+        "start" : 1574447842818,
+        "stop" : 1574447846752,
+        "duration" : 3934
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "70bf824118470650",
+        "name" : "Request",
+        "source" : "70bf824118470650.json",
+        "type" : "application/json",
+        "size" : 177
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/url",
+      "time" : {
+        "start" : 1574447846753,
+        "stop" : 1574447846778,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "12d2601799dd69a0",
+        "name" : "Response",
+        "source" : "12d2601799dd69a0.json",
+        "type" : "application/json",
+        "size" : 380
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1574447846778,
+        "stop" : 1574447846800,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "786eadea6c0baca5",
+        "name" : "Response",
+        "source" : "786eadea6c0baca5.json",
+        "type" : "application/json",
+        "size" : 71
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testClass",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click on submit button and verify the url on Hotel search Main Page"
+  }, {
+    "name" : "package",
+    "value" : "Automation test for short trip scenario to Madrid for 2 Adults"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "72f0645df3db0957",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574447056747,
+        "stop" : 1574447061076,
+        "duration" : 4329
+      }
+    }, {
+      "uid" : "7c57ebde48932bdd",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://hotels.ab-in-den-urlaub.de/de/EUR/hotels/Madrid/mr/2706480/arr/2019-12-06/dep/2019-12-07/adults/2/children/-1/-1/-1/rooms/1' to include 'https://hotels.ab-in-den-urlaub.de/de/EUR/search/search?'",
+      "time" : {
+        "start" : 1574445782808,
+        "stop" : 1574445802061,
+        "duration" : 19253
+      }
+    }, {
+      "uid" : "9be319623f33237a",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://hotels.ab-in-den-urlaub.de/de/EUR/hotels/Madrid/mr/2706480/arr/2019-12-06/dep/2019-12-07/adults/2/children/-1/-1/-1/rooms/1' to include 'https://hotels.ab-in-den-urlaub.de/de/EUR/search/search?'",
+      "time" : {
+        "start" : 1574445520622,
+        "stop" : 1574445527861,
+        "duration" : 7239
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "119e3deb16fbf911.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

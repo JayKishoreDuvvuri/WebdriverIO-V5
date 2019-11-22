@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected 'https://hotels.ab-in-den-urlaub.de/de/EUR/hotels/Madrid/mr/2706480/arr/2019-12-06/dep/2019-12-07/adults/2/children/-1/-1/-1/rooms/1' to include 'https://hotels.ab-in-den-urlaub.de/de/EUR/search/search?'",
+      "children" : [ {
+        "name" : "Click on submit button and verify the url on Hotel search Main Page",
+        "uid" : "53c96094e860bfce",
+        "parentUid" : "c5d51bc1eead16f5ce5e44bbd11625e8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574453847451,
+          "stop" : 1574453854167,
+          "duration" : 6716
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-78.0.3904.108" ]
+      } ],
+      "uid" : "c5d51bc1eead16f5ce5e44bbd11625e8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"div > div:nth-child(2) > div.hc-box__body > ul > li:nth-child(1) > a\") still not existing after 10000ms",
+      "children" : [ {
+        "name" : "Select city as Madrid",
+        "uid" : "129e8601a896248b",
+        "parentUid" : "c6f6957e821d75fb7d639c769dbb9b76",
+        "status" : "broken",
+        "time" : {
+          "start" : 1574453854168,
+          "stop" : 1574453865901,
+          "duration" : 11733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-78.0.3904.108" ]
+      } ],
+      "uid" : "c6f6957e821d75fb7d639c769dbb9b76"
+    }, {
+      "name" : "element (\"//a[@class='expand bold cta expanded button' and contains(@href,'https://hotels.ab-in-den-urlaub.de/de/EUR/hotel/The%20Westin%20Palace%2C%20Madrid/mh/6573889/overview/arr/2019-12-05/dep/2019-12-06/adults/2/children/-1/-1/-1/rooms/1?pstn=1&rdr=price&')]\") still not existing after 10000ms",
+      "children" : [ {
+        "name" : "Verify 'Zum Angebote' button is enabled to select the hotel on the 'Hotelauswahl page'",
+        "uid" : "b861543be418a494",
+        "parentUid" : "c9231a1eca1fd20539210520c13f748e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1574453872384,
+          "stop" : 1574453882484,
+          "duration" : 10100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-78.0.3904.108" ]
+      }, {
+        "name" : "Click on the selected hotel and user is navigated to 'Hotel Details page'",
+        "uid" : "3ebec6c1e3ad2ca3",
+        "parentUid" : "c9231a1eca1fd20539210520c13f748e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1574453882484,
+          "stop" : 1574453892598,
+          "duration" : 10114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-78.0.3904.108" ]
+      } ],
+      "uid" : "c9231a1eca1fd20539210520c13f748e"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

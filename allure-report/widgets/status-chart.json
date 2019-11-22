@@ -1,0 +1,171 @@
+[ {
+  "uid" : "b861543be418a494",
+  "name" : "Verify 'Zum Angebote' button is enabled to select the hotel on the 'Hotelauswahl page'",
+  "time" : {
+    "start" : 1574453872384,
+    "stop" : 1574453882484,
+    "duration" : 10100
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a2714d722170e901",
+  "name" : "Verify whether the cookie Button is enabled and click on it on home page",
+  "time" : {
+    "start" : 1574453793080,
+    "stop" : 1574453796781,
+    "duration" : 3701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1eb08bad41dce4a0",
+  "name" : "Check the title of the page",
+  "time" : {
+    "start" : 1574453766686,
+    "stop" : 1574453793079,
+    "duration" : 26393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9aaa7519db52238",
+  "name" : "Enter City as Madrid in the Search box and check whether it is Enabled on Hotel search Main page",
+  "time" : {
+    "start" : 1574453844631,
+    "stop" : 1574453846058,
+    "duration" : 1427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "129e8601a896248b",
+  "name" : "Select city as Madrid",
+  "time" : {
+    "start" : 1574453854168,
+    "stop" : 1574453865901,
+    "duration" : 11733
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "53c96094e860bfce",
+  "name" : "Click on submit button and verify the url on Hotel search Main Page",
+  "time" : {
+    "start" : 1574453847451,
+    "stop" : 1574453854167,
+    "duration" : 6716
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfaf6b7d025a4360",
+  "name" : "Click on five star rating (sterne) icon",
+  "time" : {
+    "start" : 1574453865903,
+    "stop" : 1574453867700,
+    "duration" : 1797
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17c64881d1444bcd",
+  "name" : "Verify submit button's text and it's state is enabled",
+  "time" : {
+    "start" : 1574453828828,
+    "stop" : 1574453830986,
+    "duration" : 2158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfabe11668f4ce22",
+  "name" : "Click on Re-directing link to go back again to hotels page",
+  "time" : {
+    "start" : 1574453838011,
+    "stop" : 1574453844630,
+    "duration" : 6619
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c970eae5b49c36",
+  "name" : "Click on best review rating (Bewertung) icon",
+  "time" : {
+    "start" : 1574453867701,
+    "stop" : 1574453869531,
+    "duration" : 1830
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54698249776d4354",
+  "name" : "Click on price tab to see the price in descending order",
+  "time" : {
+    "start" : 1574453869531,
+    "stop" : 1574453872383,
+    "duration" : 2852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94dc1bf905b99191",
+  "name" : "Enter City as Madrid in the Search box and check whether it is Enabled",
+  "time" : {
+    "start" : 1574453796782,
+    "stop" : 1574453802531,
+    "duration" : 5749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba02fecaf8c0176f",
+  "name" : "Select the Departure and Return date for the Journey",
+  "time" : {
+    "start" : 1574453802532,
+    "stop" : 1574453828824,
+    "duration" : 26292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ebec6c1e3ad2ca3",
+  "name" : "Click on the selected hotel and user is navigated to 'Hotel Details page'",
+  "time" : {
+    "start" : 1574453882484,
+    "stop" : 1574453892598,
+    "duration" : 10114
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ae2845f982d2eb26",
+  "name" : "Select the menu item HotelCity option",
+  "time" : {
+    "start" : 1574447702383,
+    "stop" : 1574447704712,
+    "duration" : 2329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88aff672d11003c7",
+  "name" : "Click on submit button and verify the url",
+  "time" : {
+    "start" : 1574453830986,
+    "stop" : 1574453838010,
+    "duration" : 7024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df99aa1ce0c33ad3",
+  "name" : "Verify submit button's text and it's state is enabled on Hotel search Main page",
+  "time" : {
+    "start" : 1574453846059,
+    "stop" : 1574453847450,
+    "duration" : 1391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
