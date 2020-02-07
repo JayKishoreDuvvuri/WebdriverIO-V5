@@ -19,7 +19,9 @@ Install Node modules with command : npm i
 Start Selenium Server
 
 ```bash
-Start selenium server before running the test with command : npm run selenium-server
+Install Selenium standalone: npm i -D selenium-standalone
+Install web drivers: npx selenium-standalone install
+Start selenium server before running the test with command : npm run selenium-server (OR) npx selenium-standalone start
 ```
 
 Run test
