@@ -1,4 +1,4 @@
-# [WebDriverIO - Automation tests with JavaScript-Node.js(Page Object Model)]
+# WebDriverIO - Automation tests with JavaScript-Node.js-Page Object Design Pattern
 
 Design Page Objects and run Tests
 
